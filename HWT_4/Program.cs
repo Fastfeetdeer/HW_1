@@ -10,7 +10,7 @@ while (r <= N)
         {
             Console.Write(r + ", ");
             r++;
-                    }
+        }
     else
         {
             r++;
